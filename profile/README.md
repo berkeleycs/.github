@@ -13,6 +13,7 @@ if you need it :P).
 ## Index
 
 ### CS184 Spring 2023: Computer Graphics
+- [cs184-final-proj](https://github.com/yuzhoumo/simulake)
 - [cs184-proj0](https://github.com/berkeleycs/cs184-proj0)
 - [cs184-proj1](https://github.com/berkeleycs/cs184-proj1)
 - [cs184-proj2](https://github.com/berkeleycs/cs184-proj2)
