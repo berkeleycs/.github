@@ -5,7 +5,7 @@ Coursework repositories have been privated for academic honesty concerns. Please
 contact me personally if you are not a Berkeley student and would like to view the
 contents.
 
-- [@yuzhoumo](https://github.com/yuzhoumo), Class of 2023
+\- [@yuzhoumo](https://github.com/yuzhoumo), Class of 2023 🐻🎓
 
 ## Index
 
