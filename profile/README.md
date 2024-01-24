@@ -63,7 +63,7 @@ contents.
 - [cs61b-proj2](https://github.com/berkeleycs/cs61b-proj2)
 - [cs61b-proj3](https://github.com/berkeleycs/cs61b-proj3)
 
-### CS61A Fall 2019: The Structure & Interpretation of Computer Programs
+### CS61A Fall 2019: Structure & Interpretation of Computer Programs
 - [cs61a-hw](https://github.com/berkeleycs/cs61a-hw)
 - [cs61a-labs](https://github.com/berkeleycs/cs61a-labs)
 - [cs61a-proj1](https://github.com/berkeleycs/cs61a-proj1)
