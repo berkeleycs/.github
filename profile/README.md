@@ -10,6 +10,10 @@ if you need it :P).
 
 \- [Joe Mo](https://github.com/yuzhoumo), Class of 2023 🐻🎓
 
+## Web Archive
+
+Archive of Public Course Webpages by Semester: https://berkeleycs.github.io/
+
 ## Index
 
 ### CS184 Spring 2023: Computer Graphics
