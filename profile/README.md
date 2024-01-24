@@ -43,7 +43,7 @@ contents.
 - [cs164-proj2](https://github.com/berkeleycs/cs164-proj2)
 - [cs164-proj3](https://github.com/berkeleycs/cs164-proj3)
 
-### CS170 Spring 2021: Algorithms
+### CS170 Spring 2021: Efficient Algorithms & Intractable Problems
 - [cs170-proj](https://github.com/berkeleycs/cs170-proj)
 
 ### CS61C Fall 2020: Machine Structures
