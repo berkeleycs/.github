@@ -14,7 +14,7 @@ if you need it :P).
 
 ### Web Archive
 Archive of public EE/CS course webpages by course/term:
-- https://berkeleycs.github.io/
+- https://berkeleycs.github.io
 
 ### CS184 Spring 2023: Computer Graphics
 - [cs184-final-proj](https://github.com/yuzhoumo/simulake)
