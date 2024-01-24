@@ -1,6 +1,8 @@
 # Berkeley CS Coursework
 
-This GitHub Organization is an archive of all of my Berkeley CS Coursework
+This GitHub Organization is an archive of all of my Berkeley CS Coursework.
+Coursework repositories have been privated for academic honesty concerns.
+Please contact me personally if you would like to view the contents.
 
 ## Index
 
@@ -18,7 +20,7 @@ This GitHub Organization is an archive of all of my Berkeley CS Coursework
 - [cs61b-proj0](https://github.com/berkeleycs/cs61b-proj0)
 - [cs61b-proj1](https://github.com/berkeleycs/cs61b-proj1)
 - [cs61b-proj2](https://github.com/berkeleycs/cs61b-proj2)
-- [cs61b-proj3](https://github.com/berkeleycs/cs61b-proj3)\
+- [cs61b-proj3](https://github.com/berkeleycs/cs61b-proj3)
 
 ### CS61C: Machine Structures
 - [cs61c-labs](https://github.com/berkeleycs/cs61c-labs)
