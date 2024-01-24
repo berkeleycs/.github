@@ -1,4 +1,4 @@
-# Berkeley CS Coursework
+# Berkeley CS Coursework Archive
 
 This GitHub organization contains an archive of all of my Berkeley CS Coursework.
 Coursework repositories have been privated for academic honesty concerns. Please
