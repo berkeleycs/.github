@@ -10,11 +10,11 @@ if you need it :P).
 
 \- [Joe Mo](https://github.com/yuzhoumo), Class of 2023 🐻🎓
 
-## Web Archive
-
-Archive of Public Course Webpages by Semester: https://berkeleycs.github.io/
-
 ## Index
+
+### Web Archive
+Archive of public EE/CS course webpages by course/term:
+- https://berkeleycs.github.io/
 
 ### CS184 Spring 2023: Computer Graphics
 - [cs184-final-proj](https://github.com/yuzhoumo/simulake)
