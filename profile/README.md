@@ -1,12 +1,10 @@
-# Berkeley CS Coursework Archive
+# Berkeley Computer Science Coursework Archive
 
-This GitHub organization contains an archive of all of my Berkeley CS Coursework.
-Coursework repositories have been privated for academic honesty concerns. Please
-contact me personally if you are not a Berkeley student and would like to view the
-contents. If you're wondering how I got the "berkeleycs" organization name, it just
-happened to be unclaimed when I created this (Berkeley CS department, if you are
-reading this, please contact me and I'd be happy to transfer the organization name
-if you need it :P).
+This GitHub organization contains an archive of all of my Berkeley CS coursework.
+Coursework repositories have been privated for academic honesty reasons. Please
+contact me privately if you would like to view the contents. I am not affiliated
+with the Berkeley CS department (the "berkeleycs" organization name just happened
+to be unclaimed when I created this :P).
 
 \- [Joe Mo](https://github.com/yuzhoumo), Class of 2023 🐻🎓
 
